@@ -120,3 +120,9 @@
 | [なんでも酒やカクヤス](https://www.kakuyasu.co.jp) | 1時間で到着 |
 | [Uber Eats](https://www.ubereats.com/ja-JP/) | 最短10分から到着 |
 | タクシー | 新宿駅から約2,700円 |
+
+## 連絡先
+
+- Slackワークスペースの`@shuma`
+- [twitter.com/shuma_yoshioka](https://twitter.com/shuma_yoshioka)
+- [m.me/S6464](https://m.me/S6464)
