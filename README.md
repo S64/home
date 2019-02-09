@@ -82,6 +82,7 @@
 | [カラダカルピス](https://amzn.to/2MVkV5h) | ❌ | 残量なし |
 | キムチ | ⭕ |  |
 | [アルファ化米](https://amzn.to/2HZFe2R) | ⭕ | 残2食 |
+| [ジーマ](https://amzn.to/2E2GHRX) | ❌ | 残量なし |
 
 
 ### Nintendo Switch
