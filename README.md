@@ -61,7 +61,7 @@
 | [コンタクト洗浄保存液](https://amzn.to/2SqCAYU) | ⭕ |  |
 | [黒烏龍茶](https://amzn.to/2GgTtPd) | ⭕ |  |
 | 使い捨てマスク | ⭕ |  |
-| [炭酸水](https://amzn.to/2I1ABp4) | ⭕ | 残わずか |
+| [炭酸水](https://amzn.to/2I1ABp4) | 🔺 | 残わずか |
 | [トニックウォーター](https://amzn.to/2SCohzz) | ⭕ |  |
 | [レッドブル](https://amzn.to/2I0ABFN) | ⭕ |  |
 | [ミルクのようにやさしいダイズ](https://amzn.to/2SJU29M) | ❌ | 残量なし |
@@ -72,6 +72,16 @@
 | [ラフロイグ クォーターカスク](https://amzn.to/2I2IhYb) | ⭕ |  |
 | [カルーア コーヒー](https://amzn.to/2SnNYoj) | ⭕ |  |
 | [カリラ 12年](https://amzn.to/2GfiUAJ) | ⭕ |  |
+| [キリン・ザ・ストロング ホワイトサワー](https://amzn.to/2GkGrzW) | ❌ | 都度調達 |
+| [キリン・ザ・ストロング ハードコーラ](https://amzn.to/2I1IBGl) | ❌ | 都度調達 |
+| [キリン・ザ・ストロング ゴールドサワーVodka](https://amzn.to/2DsqMLo) | ❌ | 都度調達 |
+| [キリン 氷結ストロング ベリーミックス](https://amzn.to/2SHReKk) | 🔺 | 残1本, 都度調達 |
+| [サントリー 澄みわたる白桃酒](https://amzn.to/2SHSGwg) | ⭕ | 都度調達 |
+| [水曜日のネコ](https://amzn.to/2SK7Otm) | 🔺 | 残1本, 都度調達 |
+| [コカ・コーラ プラス](https://amzn.to/2Ghuvir) | ❌ | 残量なし |
+| [カラダカルピス](https://amzn.to/2MVkV5h) | ❌ | 残量なし |
+| キムチ | ⭕ |  |
+| [アルファ化米](https://amzn.to/2HZFe2R) | ⭕ | 残2食 |
 
 
 ### Nintendo Switch
