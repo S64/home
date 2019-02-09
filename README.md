@@ -167,4 +167,4 @@
 
 ## Whishlist
 
-- https://www.amazon.co.jp/registry/wishlist/VZSVWNRGBE5D?sort=priority
+- https://amzn.to/2SEVQ3X
