@@ -164,3 +164,7 @@
 - Slackワークスペースの`@shuma`
 - [twitter.com/shuma_yoshioka](https://twitter.com/shuma_yoshioka)
 - [m.me/S6464](https://m.me/S6464)
+
+## Whishlist
+
+- https://www.amazon.co.jp/registry/wishlist/VZSVWNRGBE5D?sort=priority
