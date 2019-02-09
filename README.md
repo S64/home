@@ -67,7 +67,7 @@
 
 | コントローラ名 | 個数 |
 |------------|-----|
-| [Nintendo Switch Proコントローラー](https://amzn.to/2I0Zf9g) | 1 |
+| [Nintendo Switch Proコントローラー](https://amzn.to/2I0Zf9g) | 2 |
 | [Joy-Con (L)](https://amzn.to/2SldBpC) | 1 |
 | [Joy-Con (R)](https://amzn.to/2HWFnnt) | 1 |
 
