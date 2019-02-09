@@ -96,12 +96,18 @@
 - [プリパラ オールアイドルパーフェクトステージ!](https://amzn.to/2GgIPrK)
 - [大乱闘スマッシュブラザーズ SPECIAL](https://amzn.to/2SjVbp9)
 - [Fit Boxing](https://amzn.to/2HWENWP)
+- [ポケットモンスター Let's Go! イーブイ](https://amzn.to/2E3MpTB)
+- [カラオケJOYSOUND for Nintendo Switch](https://ec.nintendo.com/JP/ja/titles/70010000002609)
+  - [カラオケJOYSOUND for Nintendo Switch 期間券 自動継続購入 90日](https://ec.nintendo.com/JP/ja/titles/70010000002609/courses/07cbeaf2a45657bf)
+- [Nintendo Switch Online](https://amzn.to/2E16iuy)
+  - [ファミリーコンピュータ Nintendo Switch Online](https://ec.nintendo.com/JP/ja/titles/70010000000850)
 
 | コントローラ名 | 個数 |
 |------------|-----|
 | [Nintendo Switch Proコントローラー](https://amzn.to/2I0Zf9g) | 1 |
 | [Joy-Con (L)](https://amzn.to/2SldBpC) | 1 |
 | [Joy-Con (R)](https://amzn.to/2HWFnnt) | 1 |
+| [ECM-PCV80U](https://amzn.to/2E1hO9i) | 1 |
 
 ### 寝具
 
