@@ -64,7 +64,7 @@
 | [炭酸水](https://amzn.to/2I1ABp4) | ⭕ | 残わずか |
 | [トニックウォーター](https://amzn.to/2SCohzz) | ⭕ |  |
 | [レッドブル](https://amzn.to/2I0ABFN) | ⭕ |  |
-| [ミルクのようにやさしいダイズ](https://amzn.to/2SJU29M) | ⭕ |  |
+| [ミルクのようにやさしいダイズ](https://amzn.to/2SJU29M) | ❌ | 残量なし |
 | [ウォッカ](https://amzn.to/2SAYKXE) | ⭕ | 残わずか |
 | [チョコラBBハイパー](https://amzn.to/2Sz6ut9) | ⭕ |  |
 | [タリスカー ストーム](https://amzn.to/2SqzNPq) | ⭕ |  |
