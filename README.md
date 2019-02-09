@@ -176,6 +176,6 @@
 - [twitter.com/shuma_yoshioka](https://twitter.com/shuma_yoshioka)
 - [m.me/S6464](https://m.me/S6464)
 
-## Whishlist
+## Wishlist
 
 - https://amzn.to/2SEVQ3X
