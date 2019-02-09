@@ -67,6 +67,11 @@
 | [ミルクのようにやさしいダイズ](https://amzn.to/2SJU29M) | ⭕ |  |
 | [ウォッカ](https://amzn.to/2SAYKXE) | ⭕ | 残わずか |
 | [チョコラBBハイパー](https://amzn.to/2Sz6ut9) | ⭕ |  |
+| [タリスカー ストーム](https://amzn.to/2SqzNPq) | ⭕ |  |
+| [ニッカ カフェモルト](https://amzn.to/2HX2ZIK) | ⭕ |  |
+| [ラフロイグ クォーターカスク](https://amzn.to/2I2IhYb) | ⭕ |  |
+| [カルーア コーヒー](https://amzn.to/2SnNYoj) | ⭕ |  |
+| [カリラ 12年](https://amzn.to/2GfiUAJ) | ⭕ |  |
 
 
 ### Nintendo Switch
