@@ -80,7 +80,6 @@
 | [水曜日のネコ](https://amzn.to/2SK7Otm) | 🔺 | 残1本, 都度調達 |
 | [コカ・コーラ プラス](https://amzn.to/2Ghuvir) | ⭕ |  |
 | [カラダカルピス](https://amzn.to/2MVkV5h) | ❌ | 残量なし |
-| キムチ | ⭕ |  |
 | [アルファ化米](https://amzn.to/2HZFe2R) | ⭕ | 残2食 |
 | [ジーマ](https://amzn.to/2E2GHRX) | ⭕ |  |
 | [クレベリン 置き型](https://amzn.to/2SCzv7i) | 🔺 | 3個設置中, 残なし |
