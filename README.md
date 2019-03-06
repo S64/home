@@ -77,7 +77,7 @@
 | [キリン・ザ・ストロング ゴールドサワーVodka](https://amzn.to/2DsqMLo) | ❌ | 都度調達 |
 | [キリン 氷結ストロング ベリーミックス](https://amzn.to/2SHReKk) | 🔺 | 残1本, 都度調達 |
 | [サントリー 澄みわたる白桃酒](https://amzn.to/2SHSGwg) | ⭕ | 都度調達 |
-| [水曜日のネコ](https://amzn.to/2SK7Otm) | 🔺 | 残1本, 都度調達 |
+| [水曜日のネコ](https://amzn.to/2SK7Otm) | ❌ | 都度調達 |
 | [コカ・コーラ プラス](https://amzn.to/2Ghuvir) | ⭕ |  |
 | [カラダカルピス](https://amzn.to/2MVkV5h) | ❌ | 残量なし |
 | キムチ | ⭕ |  |
