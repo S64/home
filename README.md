@@ -33,7 +33,7 @@
 | 電子レンジ | ⭕ |  |
 | オーブントースター | ❌ |  |
 | テレビ | ⭕ | 43" 4Kモニタ, 地上波 / BS / CS, [Android TV製品](https://h.s64.jp/entry/pix-smb400-first) |
-| DVD / Blu-ray プレイヤー | ❌ |  |
+| DVD / Blu-ray プレイヤー | ⭕ | 4K / UHD対応 |
 | デスクトップPC | ❌ | 所有するMacBookのみ |
 | 洗面台 | ⭕ |  |
 | 化粧台 | ❌ | 洗面台で代用可 |
