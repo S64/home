@@ -59,14 +59,14 @@
 | クレンジングオイル | ⭕ |  |
 | 化粧水・乳液 | ❌ |  |
 | [コンタクト洗浄保存液](https://amzn.to/2SqCAYU) | ⭕ |  |
-| [黒烏龍茶](https://amzn.to/2GgTtPd) | ⭕ |  |
+| [黒烏龍茶](https://amzn.to/2GgTtPd) | ⭕ | 剰余あり。要消費 |
 | 使い捨てマスク | 🔺 | 残わずか |
 | [炭酸水](https://amzn.to/2I1ABp4) | ⭕ |  |
 | [トニックウォーター](https://amzn.to/2SCohzz) | ⭕ |  |
 | [レッドブル](https://amzn.to/2I0ABFN) | ⭕ |  |
 | [ミルクのようにやさしいダイズ](https://amzn.to/2SJU29M) | ❌ | 残量なし |
 | [ウォッカ](https://amzn.to/2SCS37d) | ⭕ | 残わずか |
-| [チョコラBBハイパー](https://amzn.to/2Sz6ut9) | ⭕ |  |
+| [チョコラBBハイパー](https://amzn.to/2Sz6ut9) | ⭕ | 剰余あり。要消費 |
 | [タリスカー ストーム](https://amzn.to/2SqzNPq) | ⭕ |  |
 | [ニッカ カフェモルト](https://amzn.to/2HX2ZIK) | ⭕ |  |
 | [ラフロイグ クォーターカスク](https://amzn.to/2I2IhYb) | ⭕ |  |
