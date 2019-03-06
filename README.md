@@ -60,7 +60,7 @@
 | 化粧水・乳液 | ❌ |  |
 | [コンタクト洗浄保存液](https://amzn.to/2SqCAYU) | ⭕ |  |
 | [黒烏龍茶](https://amzn.to/2GgTtPd) | ⭕ |  |
-| 使い捨てマスク | ⭕ |  |
+| 使い捨てマスク | 🔺 | 残わずか |
 | [炭酸水](https://amzn.to/2I1ABp4) | ⭕ |  |
 | [トニックウォーター](https://amzn.to/2SCohzz) | ⭕ |  |
 | [レッドブル](https://amzn.to/2I0ABFN) | ⭕ |  |
