@@ -84,6 +84,10 @@
 | [アルファ化米](https://amzn.to/2HZFe2R) | ⭕ | 残2食 |
 | [ジーマ](https://amzn.to/2E2GHRX) | ⭕ |  |
 | [クレベリン 置き型](https://amzn.to/2SCzv7i) | ⭕ | 3個設置中, 残1 |
+| [ラッキーマヨネーズ](https://amzn.to/2EEWGF1) | 🔺 | 残僅少 |
+| [ラッキーマヨカレー](https://amzn.to/2TDc3Hm) | 🔺 | 残僅少 |
+| [ラッキー明太マヨ](https://amzn.to/2EJySzC) | 🔺 | 残僅少 |
+| [スコーン がっつきバーベキュー](https://amzn.to/2EEjW5W) | 🔺 | 残僅少 |
 
 
 ### Nintendo Switch
