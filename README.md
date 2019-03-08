@@ -103,6 +103,7 @@
 - [Fit Boxing](https://amzn.to/2HWENWP)
 - [ポケットモンスター Let's Go! イーブイ](https://amzn.to/2E3MpTB)
 - [マリオカート8 デラックス](https://amzn.to/2TySJLs)
+- [スーパー マリオパーティ](https://amzn.to/2TCcTnR)
 - [カラオケJOYSOUND for Nintendo Switch](https://ec.nintendo.com/JP/ja/titles/70010000002609)
   - [カラオケJOYSOUND for Nintendo Switch 期間券 自動継続購入 90日](https://ec.nintendo.com/JP/ja/titles/70010000002609/courses/07cbeaf2a45657bf)
 - [Nintendo Switch Online](https://amzn.to/2E16iuy)
