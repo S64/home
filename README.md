@@ -73,6 +73,7 @@
 | [ラフロイグ クォーターカスク](https://amzn.to/2I2IhYb) | ⭕ |  |
 | [カルーア コーヒー](https://amzn.to/2SnNYoj) | ⭕ |  |
 | [カリラ 12年](https://amzn.to/2GfiUAJ) | ⭕ |  |
+| [WAPIRITS TUMUGI](https://amzn.to/2TFqLxq) | ⭕ |  |
 | [キリン・ザ・ストロング ホワイトサワー](https://amzn.to/2GkGrzW) | ❌ | 都度調達 |
 | [キリン・ザ・ストロング ハードコーラ](https://amzn.to/2I1IBGl) | ❌ | 都度調達 |
 | [キリン・ザ・ストロング ゴールドサワーVodka](https://amzn.to/2DsqMLo) | ❌ | 都度調達 |
