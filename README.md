@@ -2,6 +2,8 @@
 
 [@S64](https://github.com/S64)の自宅に関して共有する際の共通情報
 
+[不用品リストはこちら](reusables/01_reusables.md)にあります
+
 ## 所在地等
 
 | 項目      | 内容  |
