@@ -192,4 +192,6 @@
 
 ## Wishlist
 
+ウィッシュリスト（ほしいものリスト）です。
+
 - https://amzn.to/2SEVQ3X
