@@ -68,7 +68,7 @@
 | [トニックウォーター](https://amzn.to/2SCohzz) | ⭕ |  |
 | [レッドブル](https://amzn.to/2I0ABFN) | ⭕ |  |
 | [ミルクのようにやさしいダイズ](https://amzn.to/2SJU29M) | ❌ | 残量なし |
-| [ウォッカ](https://amzn.to/2SCS37d) | ⭕ | 残わずか |
+| [ウォッカ](https://amzn.to/2SCS37d) | ⭕ |  |
 | [チョコラBBハイパー](https://amzn.to/2Sz6ut9) | ⭕ | 剰余あり。要消費 |
 | [タリスカー ストーム](https://amzn.to/2SqzNPq) | ⭕ |  |
 | [ニッカ カフェモルト](https://amzn.to/2HX2ZIK) | ⭕ |  |
