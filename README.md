@@ -95,6 +95,7 @@
 | [ズボラボ 朝用ふき取り化粧水シート](https://amzn.to/2XJNkzo) | ⭕ |  |
 | [ズボラボ 夜用ふき取り乳液シート](https://amzn.to/2Pwu99K) | ⭕ |  |
 | [黒龍 大吟醸](https://amzn.to/2XHiLug) | ⭕ |  |
+| [醲献](https://amzn.to/2PvEvX4) | ⭕ |  |
 
 ### Nintendo Switch
 
