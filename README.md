@@ -91,6 +91,7 @@
 | [ラッキーマヨカレー](https://amzn.to/2TDc3Hm) | 🔺 | 残僅少 |
 | [ラッキー明太マヨ](https://amzn.to/2EJySzC) | 🔺 | 残僅少 |
 | [スコーン がっつきバーベキュー](https://amzn.to/2EEjW5W) | 🔺 | 残僅少 |
+| [醲献](https://amzn.to/2PvEvX4) | ⭕ |  |
 
 
 ### Nintendo Switch
