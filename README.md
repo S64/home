@@ -52,6 +52,7 @@
 | レディースシェーバー | ❌ |  |
 | コンタクトケース | ❌ |  |
 | プレイングカード | ⭕ | ドナルドのトランプ\*2 |
+| [大統領トランプ](https://chocolate-games.shop/items/5c7744d0787d847be5f9d107) | ⭕ |  |
 
 ### 消耗品
 
@@ -91,7 +92,6 @@
 | [ラッキーマヨカレー](https://amzn.to/2TDc3Hm) | 🔺 | 残僅少 |
 | [ラッキー明太マヨ](https://amzn.to/2EJySzC) | 🔺 | 残僅少 |
 | [スコーン がっつきバーベキュー](https://amzn.to/2EEjW5W) | 🔺 | 残僅少 |
-
 
 ### Nintendo Switch
 
