@@ -93,6 +93,7 @@
 | [スコーン がっつきバーベキュー](https://amzn.to/2EEjW5W) | 🔺 | 残僅少 |
 | [スリングショット シーセニョール](https://amzn.to/2PwqMPV) | ⭕ |  |
 | [スリングショット ジャガーノート](https://amzn.to/2PwFHd4) | ⭕ |  |
+| [スリングショット エックスオンザビーチ](https://amzn.to/2PwPr6T) | ⭕ |  |
 
 
 ### Nintendo Switch
