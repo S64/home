@@ -92,6 +92,7 @@
 | [ラッキー明太マヨ](https://amzn.to/2EJySzC) | 🔺 | 残僅少 |
 | [スコーン がっつきバーベキュー](https://amzn.to/2EEjW5W) | 🔺 | 残僅少 |
 | [スリングショット シーセニョール](https://amzn.to/2PwqMPV) | ⭕ |  |
+| [スリングショット ジャガーノート](https://amzn.to/2PwFHd4) | ⭕ |  |
 
 
 ### Nintendo Switch
