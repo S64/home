@@ -118,6 +118,7 @@
 | [Joy-Con (L)](https://amzn.to/2SldBpC) | 1 |
 | [Joy-Con (R)](https://amzn.to/2HWFnnt) | 1 |
 | [ECM-PCV80U](https://amzn.to/2E1hO9i) | 1 |
+| [ニンテンドーUSBワイヤレスマイク](https://amzn.to/2vlfXXw) | 1 |
 
 ### 寝具
 
