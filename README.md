@@ -94,6 +94,7 @@
 | [スリングショット シーセニョール](https://amzn.to/2PwqMPV) | ⭕ |  |
 | [スリングショット ジャガーノート](https://amzn.to/2PwFHd4) | ⭕ |  |
 | [スリングショット エックスオンザビーチ](https://amzn.to/2PwPr6T) | ⭕ |  |
+| [スリングショット カミカゼ](https://amzn.to/2PuOID6) | ⭕ |  |
 
 
 ### Nintendo Switch
