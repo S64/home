@@ -91,7 +91,8 @@
 | [ラッキーマヨカレー](https://amzn.to/2TDc3Hm) | 🔺 | 残僅少 |
 | [ラッキー明太マヨ](https://amzn.to/2EJySzC) | 🔺 | 残僅少 |
 | [スコーン がっつきバーベキュー](https://amzn.to/2EEjW5W) | 🔺 | 残僅少 |
-
+| [ズボラボ 朝用ふき取り化粧水シート](https://amzn.to/2XJNkzo) | ⭕ |  |
+| [ズボラボ 夜用ふき取り乳液シート](https://amzn.to/2Pwu99K) | ⭕ |  |
 
 ### Nintendo Switch
 
