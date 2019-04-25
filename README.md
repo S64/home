@@ -117,10 +117,12 @@
 | コントローラ名 | 個数 |
 |------------|-----|
 | [Nintendo Switch Proコントローラー](https://amzn.to/2I0Zf9g) | 2 |
-| [Joy-Con (L)](https://amzn.to/2SldBpC) | 1 |
-| [Joy-Con (R)](https://amzn.to/2HWFnnt) | 1 |
+| [Joy-Con (L)](https://amzn.to/2SldBpC) | 1 (+1) |
+| [Joy-Con (R)](https://amzn.to/2HWFnnt) | 2 |
 | [ECM-PCV80U](https://amzn.to/2E1hO9i) | 1 |
 | [ニンテンドーUSBワイヤレスマイク](https://amzn.to/2vlfXXw) | 1 |
+
+※ Joy-Con (L) は1つ紛失中
 
 ### 寝具
 
