@@ -97,6 +97,12 @@
 | [ズボラボ 夜用ふき取り乳液シート](https://amzn.to/2Pwu99K) | ⭕ |  |
 | [黒龍 大吟醸](https://amzn.to/2XHiLug) | ⭕ |  |
 | [醲献](https://amzn.to/2PvEvX4) | ⭕ |  |
+| [たこ焼き粉](https://amzn.to/2XGYzJ2) | ❌ |  |
+| 中濃ソース | ❌ |  |
+| マヨネーズ | ❌ |  |
+| 竹串 | ❌ |  |
+| キッチン用計量器 | ❌ |  |
+| 油ひき | ❌ |  |
 
 ### Nintendo Switch
 
