@@ -52,6 +52,7 @@
 | レディースシェーバー | ❌ |  |
 | コンタクトケース | ❌ |  |
 | プレイングカード | ⭕ | ドナルドのトランプ\*2 |
+| [大統領トランプ](https://chocolate-games.shop/items/5c7744d0787d847be5f9d107) | ⭕ |  |
 | [ツッコミかるた](https://amzn.to/2vm25g0) | ⭕ |  |
 | [ジェンガ クラシック](https://amzn.to/2PsFAPE) | ⭕ |  |
 | [体温計](https://amzn.to/2vkzIP5) | ⭕ |  |
