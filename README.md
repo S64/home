@@ -41,24 +41,28 @@
 | 化粧台 | ❌ | 洗面台で代用可 |
 | 調理台 | ❌ | 流し内で作業 |
 | まな板 | 🔺 |  |
-| ソファ | ⭕ | 2.5人掛け |
+| ソファ | ⭕ | 3.5人掛け |
 | テーブル | ⭕ | ローテーブル1台 |
 | デスク | ⭕ |  |
 | 外部モニタ | ❌ | PC向けなし。テレビへの外部入力で代用可 |
 | ヘアアイロン | ⭕ |  |
-| ビューラー | ❌ |  |
+| ビューラー | ⭕ |  |
 | [ホットビューラー](https://amzn.to/2I105Th) | ⭕ |  |
 | シェーバー | ⭕ |  |
 | レディースシェーバー | ❌ |  |
 | コンタクトケース | ❌ |  |
 | プレイングカード | ⭕ | ドナルドのトランプ\*2 |
 | [大統領トランプ](https://chocolate-games.shop/items/5c7744d0787d847be5f9d107) | ⭕ |  |
+| [ツッコミかるた](https://amzn.to/2vm25g0) | ⭕ |  |
+| [ジェンガ クラシック](https://amzn.to/2PsFAPE) | ⭕ |  |
+| [体温計](https://amzn.to/2vkzIP5) | ⭕ |  |
+| [たこ焼き器](https://amzn.to/2VxnHV4) | ⭕ |  |
 
 ### 消耗品
 
 | 項目     | 有無 | 詳細 |
 |---------|-----|-----|
-| [ティッシュペーパー](https://amzn.to/2I1R2BF) | ⭕ | 残3箱 |
+| [ティッシュペーパー](https://amzn.to/2I1R2BF) | 🔺 | 残僅少 |
 | トイレットペーパー | ⭕ |  |
 | クレンジングオイル | ⭕ |  |
 | 化粧水・乳液 | ❌ |  |
@@ -92,6 +96,16 @@
 | [ラッキーマヨカレー](https://amzn.to/2TDc3Hm) | 🔺 | 残僅少 |
 | [ラッキー明太マヨ](https://amzn.to/2EJySzC) | 🔺 | 残僅少 |
 | [スコーン がっつきバーベキュー](https://amzn.to/2EEjW5W) | 🔺 | 残僅少 |
+| [ズボラボ 朝用ふき取り化粧水シート](https://amzn.to/2XJNkzo) | ⭕ |  |
+| [ズボラボ 夜用ふき取り乳液シート](https://amzn.to/2Pwu99K) | ⭕ |  |
+| [黒龍 大吟醸](https://amzn.to/2XHiLug) | ⭕ |  |
+| [醲献](https://amzn.to/2PvEvX4) | ⭕ |  |
+| [たこ焼き粉](https://amzn.to/2XGYzJ2) | ❌ |  |
+| 中濃ソース | ❌ |  |
+| マヨネーズ | ❌ |  |
+| 竹串 | ❌ |  |
+| キッチン用計量器 | ❌ |  |
+| 油ひき | ❌ |  |
 
 ### Nintendo Switch
 
@@ -115,9 +129,12 @@
 | コントローラ名 | 個数 |
 |------------|-----|
 | [Nintendo Switch Proコントローラー](https://amzn.to/2I0Zf9g) | 2 |
-| [Joy-Con (L)](https://amzn.to/2SldBpC) | 1 |
-| [Joy-Con (R)](https://amzn.to/2HWFnnt) | 1 |
+| [Joy-Con (L)](https://amzn.to/2SldBpC) | 1 (+1) |
+| [Joy-Con (R)](https://amzn.to/2HWFnnt) | 2 |
 | [ECM-PCV80U](https://amzn.to/2E1hO9i) | 1 |
+| [ニンテンドーUSBワイヤレスマイク](https://amzn.to/2vlfXXw) | 1 |
+
+※ Joy-Con (L) は1つ紛失中
 
 ### 寝具
 
